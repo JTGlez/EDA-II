@@ -1,4 +1,4 @@
-# EDA-II
+# EDA II
 Repositorio con prácticas y tareas del curso de EDA II, FI UNAM, enfocado a Estructuras de Datos No Lineales.
 
 > Este respositorio es parte del curso de Estructura de Datos y Algoritmos II de la Facultad de Ingeniería, UNAM. Contiene elementos básicos de Estructuras de Datos
